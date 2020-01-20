@@ -1,2 +1,5 @@
 # Hello-World
-First Repository 
+
+
+Just learning how to use this stuff
+ 
